@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=271
+
+This is simply the inverse of the navajo colour scheme.
+I was using navajo, and hit visual bell enough times to go "hey, that looks cool" ;-)
+
+So here it is.  Also includes the statusbar colours  and assistance for spell checking from the Cream version of the navajo scheme.
+
+Thanks to R. Edward Ralston for navajo, Steve Hall for Cream, and Srinath Avadhanula for misc bug fixes.
+
